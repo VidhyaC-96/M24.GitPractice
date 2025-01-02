@@ -1,11 +1,10 @@
 package demo;
 
-public class Sample {
+public class Test {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("Sample Project");
-
+System.out.println("Testing");
 	}
 
 }
